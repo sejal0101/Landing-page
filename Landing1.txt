@@ -1,0 +1,1262 @@
+
+<!DOCTYPE html>
+<html class='ltr' dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<!--- Piki Templates All Packed SEO /-->
+<meta content='width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1' name='viewport'/>
+<title>ExpertsMania</title>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='https://expertsmania.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://expertsmania.blogspot.com/' hreflang='x-default' rel='alternate'/>
+<meta content='#c30000' name='theme-color'/>
+<meta content='#c30000' name='msapplication-navbutton-color'/>
+<link href='https://expertsmania.blogspot.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="ExpertsMania - Atom" href="https://expertsmania.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="ExpertsMania - RSS" href="https://expertsmania.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="ExpertsMania - Atom" href="https://www.blogger.com/feeds/1912309184954094911/posts/default" />
+<link rel="me" href="https://www.blogger.com/profile/02812955151233119980" />
+<meta content='We give latest gaming updates and gaming latest news.' name='description'/>
+<!-- Metadata for Open Graph protocol available here http://ogp.me/. -->
+<meta content='website' property='og:type'/>
+<meta content='ExpertsMania' property='og:title'/>
+<meta content='https://expertsmania.blogspot.com/' property='og:url'/>
+<link href='//themes.googleusercontent.com ' rel='dns-prefetch'/>
+<link href='//pagead2.googlesyndication.com' rel='dns-prefetch'/>
+<link href='//googleads.g.doubleclick.net' rel='dns-prefetch'/>
+<link href='//www.gstatic.com' rel='preconnect'/>
+<link href='//www.googletagservices.com' rel='dns-prefetch'/>
+<link href='//static.xx.fbcdn.net' rel='dns-prefetch'/>
+<link href='//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet'/>
+<!-- Template Style CSS -->
+<style id='page-skin-1' type='text/css'><!--
+/*
+/*! normalize.css v3.0.1 | MIT License | git.io/normalize */
+dl,ul{list-style-position:inside;font-weight:400;list-style:none}
+ul li{list-style:none}
+caption,th{text-align:center}
+html,body{text-size-adjust:none;-webkit-text-size-adjust:none;-moz-text-size-adjust:none;-ms-text-size-adjust:none}
+.separator a{clear:none!important;float:none!important;margin-left:0!important;margin-right:0!important}#Navbar1,#navbar-iframe,.widget-item-control,a.quickedit,.home-link,.feed-links{display:none!important}.center{display:table;margin:0 auto;position:relative}.widget > h2,.widget > h3{display:none}.widget iframe,.widget img{max-width:100%}
+.container{width: 100%;max-width: 1200px;margin: 0 auto;padding: 0px;box-sizing:border-box}
+.center{display:table;margin:0 auto;position:relative}
+img{border:0;position:relative}
+a,a:visited{text-decoration:none}
+.clearfix{clear:both}
+.section,.widget,.widget ul{margin:0;padding:0}
+a{color:#112b3e}
+a img{border:0}
+abbr{text-decoration:none}
+.widget>h2,.widget>h3{display:none}
+*:before, *:after { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+/*-- CSS Variables --*/
+html{
+--body-font:'Mulish', Arial, sans-serif;
+--title-font:'Mulish', Arial, sans-serif;
+--meta-font:'Mulish', Arial, sans-serif;
+--text-font:'Mulish', Arial, sans-serif;
+--main-bg:#df1023;
+--light-solid-color:#c1bbbb;
+--black-color:#000000;
+--hero-color:#aaaaaa;
+--snippet-color:#aba4a4;
+--solid-border:#ddd;
+--white-bg:#ffffff;
+--white-color:#ffffff;
+}
+.no-items.section{display:none}
+h1,h2,h3,h4,h5,h6{font-family:var(--title-font);font-weight:700}
+body{position:relative;background:#eee;font-family:var(--body-font);font-size:14px;font-weight:400;color:#333333;word-wrap:break-word;margin:0;padding:0;font-style:normal;line-height:1.4em}
+#outer-wrapper{position:relative;overflow:hidden;width:100%;max-width:100%;margin:0 auto}
+.outer-container{width:1078px}
+.outer-container1{width:1078px}
+h1{font-size:26px;line-height:28px}
+h3{font-size:22px;line-height:21px}
+h4{font-size:20px;line-height:18px}
+h5{font-size:16px;line-height:16px}
+h6{font-size:13px;line-height:13px;margin-bottom:0;margin-top:0}
+@media only screen and (min-width:1025px) {
+h1{font-size:42px;line-height:46px}
+h2{font-size:36px;line-height:40px}
+h3{font-size:28px;line-height:35px}
+h4{font-size:21px;line-height:26px}}
+.post-body h1{font-size:28px}
+.post-body h2{font-size:24px}
+.post-body h3{font-size:21px}
+.post-body h4{font-size:18px}
+.post-body h5{font-size:16px}
+.post-body h6{font-size:13px}
+.post-body h1,.post-body h2,.post-body h3,.post-body h4,.post-body h5,.post-body h6{margin-bottom:10px;color:#0a0a0a}
+.blog-posts.hfeed.container.item-post-wrap{margin:10px 0 0}
+.home #feed-view #main{background:#fff}
+#center-container{position:relative;float:left;width:100%;overflow:hidden;padding:0;margin:0}
+#center-container > .container{margin:0 auto}
+#feed-view{position:relative;float:left;width:100%;box-sizing:border-box;padding:0}
+.item #feed-view{width:calc(100% - (320px + 30px))}
+#sidebar-container{display:none;position:relative;float:right;width:320px;box-sizing:border-box;padding:0;margin:10px 0 0}
+.item #sidebar-container{display:block}
+.post-filter-image{position:relative;display:block;transition:transform .3s ease}
+.post-filter-link,.comments .avatar-image-container{background-color:rgba(155,155,155,0.07);color:transparent!important}
+.background-layer:before{content:'';position:absolute;left:0;right:0;bottom:0;height:66%;background-image:linear-gradient(to bottom,transparent,rgba(0,0,0,0.7));-webkit-backface-visibility:hidden;backface-visibility:hidden;z-index:2;opacity:1;margin:0;transition:opacity .25s ease}
+.snip-thumbnail{position:relative;width:100%;height:100%;display:block;object-fit: cover;z-index: 1; opacity: 0; transition: opacity .30s ease,transform .30s ease}
+.snip-thumbnail.lazy-img{opacity:1}
+.post-filter-link:hover .snip-thumbnail {transform: scale(1.05);}
+#top-menu{float:left}
+#top-menu .selectnav{display:none}
+.menu-top li{display:inline-block;line-height:40px;padding:0}
+.menu-top li a{color:#000;text-transform:capitalize;font-size:12px;text-decoration:none}
+.menu-top li a:after{content:"-";margin:0 5px;color:#333}
+.menu-top li:last-child a:after{content:" ";display:none}
+.menu-top li a .fa{margin-right:5px}
+.menu-top li a:hover, .social-sec .social-footer li a:hover{opacity:0.8}
+#hamburger-sticky .container{position:relative;margin:0 auto}
+#top-social{float:right}
+.blighter-seo-img{margin:auto;text-align:center;overflow:hidden}
+.blighter-seo-img img{height:100px;width:100px;border-radius:100%;object-fit:cover}
+.blighter-seo .image-caption{display:block;text-align:center;height: 33px;overflow: hidden;color:#333;font-size:13px}
+.blighter-seo-title{text-align:center}
+
+animation: runload 0.6s infinite
+}
+@-webkit-keyframes runload {
+0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}
+to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}
+}
+@keyframes runload {
+0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}
+to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}
+}
+.loading-frame{-webkit-animation-duration:.5s;animation-duration:.5s;-webkit-animation-fill-mode:both;animation-fill-mode:both}
+@keyframes fadeIn {
+from{opacity:0}
+to{opacity:1}
+}
+.run-time{animation-name:fadeIn}
+@keyframes fadeInUp {
+from{opacity:0;transform:translate3d(0,5px,0)}
+to{opacity:1;transform:translate3d(0,0,0)}
+}
+.load-time{animation-name:fadeInUp}
+.overlay{visibility:hidden;opacity:0;position:fixed;top:0;left:0;right:0;bottom:0;z-index:1000;margin:0;transition:all .25s ease}
+#bottom-nos{position:relative;float:left;background: #fff;width:100%;padding: 25px 0;margin: 20px 0;}
+#footer-nos.no-items,#header-nos.no-items,#bottom-nos.no-items{padding:0;border:0}
+#footer-nos .widget, #header-nos .widget{position:relative;float:left;box-sizing:border-box;margin:0}
+#footer-nos .widget > widget-content, #header-nos .widget > widget-content, #bottom-nos .widget > widget-content{display:none}
+#footer-nos .widget-content .widget-title > h3, #header-nos .widget-content .widget-title > h3, #bottom-nos .widget-content .widget-title > h3{position:relative;font-family:var(--body-font);font-weight:700;margin:0 0 10px}
+#footer-nos .widget-content .widget-title > h3{font-size:16px;color:#ffffff}
+#header-nos .widget-content .widget-title > h3{font-size:27px;line-height: 45px;color:#000}
+#bottom-nos .widget-content .widget-title > h3{font-size:20px;line-height: 22px;    border: none;color:#000}
+#footer-nos .Image{width:70%;padding:0 25px 0 0}
+#header-nos .Image{width:100%;padding:0}
+#bottom-nos .Image{width:100%;padding:0 25px 0 0}
+.contact-form-cross{margin:0 0 0 3px}
+.Profile .profile-img{transition:all .30s ease;position:relative;width:100%;height:100%;margin:auto;display:block;object-fit:cover}
+a.profile-image{float:left;width:55%;overflow:hidden;margin:0 0 10px}
+a.profile-link.g-profile{font-size:23px;font-weight:600;display:block;position:relative;margin:0 0 20px}
+#Profile1 .widget-content div{max-width:40%}
+.profile-links li{float:none;margin:5px 12px;display:inline-block}
+ul.profile-links.show{display:block;border-bottom:2px solid black;border-top:2px solid black;margin:7% 25% 0}
+ul.profile-links{display:none;padding:0 1px}
+ul.profile-links.show{display:block}
+.profile-links li a{display:block;font-size:20px;color:#000;line-height:1;box-sizing:border-box;padding:0}
+thor .avatar-container{width:60px;height:60px}
+.share-buttons li.share-icon{display:none}
+}
+
+--></style>
+<!-- Global Variables -->
+<script defer='defer' type='text/javascript'>
+//<![CDATA[
+// Global variables with content. "Available for Edit"
+var no_image = "https://3.bp.blogspot.com/-Yw8BIuvwoSQ/VsjkCIMoltI/AAAAAAAAC4c/s55PW6xEKn0/s1600-r/nth.png";
+var monthFormat = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+relatedPostsNum = 3,
+commentsSystem = "blogger",
+showMoreText = "",
+followByEmailText = "",
+postPerPage= 6;
+fixedSidebar = true,
+pageOfText = ["Page", "of"],
+fixedMenu = false, // "true" or "false"
+disqusShortname = "pikitemplates";
+//]]>
+</script>
+<!-- Google Analytics -->
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+<script data-ad-client="ca-pub-2478022146061585" data-ad-host="ca-host-pub-1556223355139109" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<!-- data-ad-client=ca-pub-2478022146061585 -->
+
+</head>
+<body class='index home feed-view'>
+<!-- Theme Options -->
+<div class='admin-area' style='display:none'>
+<div class='admin-section section' id='admin' name='Theme Options'>
+<div class='widget LinkList' data-version='2' id='LinkList23'>
+
+          <script type='text/javascript'>
+          //<![CDATA[
+          
+
+              var disqusShortname = "/";
+            
+
+              var commentsSystem = "blogger";
+            
+
+              var fixedMenu = true;
+            
+
+              var fixedSidebar = true;
+            
+
+              var postPerPage = 6;
+            
+
+          //]]>
+          </script>
+        
+</div></div>
+</div>
+<!-- Outer Wrapper -->
+<div id='outer-wrapper'>
+<!-- Header Wrapper -->
+<div class='top-bar'>
+<div class='container'>
+<div class='row'>
+<div id='top-menu'>
+<div class='menu-top section' id='menu-top' name='Top Menu'><div class='widget LinkList' data-version='2' id='LinkList3'>
+<div class='widget-content'>
+<ul class='nav1'>
+<li>
+<a href='/'>
+Join Our Program
+</a>
+</li>
+<li>
+<a href='#'>
+__DropDown 1
+</a>
+</li>
+<li>
+<a href='#'>
+__DropDown 2
+</a>
+</li>
+<li>
+<a href='#'>
+__DropDown 3
+</a>
+</li>
+<li>
+<a href='#'>
+Documentation
+</a>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<header id='hamburger-sticky'>
+<!-- headerHero -->
+<div class='headerHero-wrap'>
+<div class='headerHero'>
+<div class='container outer-container1'>
+<a class='show-hamburger-container' href='javascript:;'></a>
+<div class='hamburgerLogo-wrap'>
+<div class='hamburgerLogo section' id='hamburgerLogo' name='Main Logo'><div class='widget Header' data-version='2' id='Header1'>
+<div class='header-widget'>
+<h1 class='blog-title'>
+<a href='https://expertsmania.blogspot.com/'>
+ExpertsMania
+</a>
+</h1>
+</div>
+</div></div>
+</div>
+<nav class='main-menu-wrap'>
+<div class='menu' id='menu'>
+<div class='hamburgerMenu section' id='hamburgerMenu' name='Main Menu'><div class='widget LinkList' data-version='2' id='LinkList155'>
+<ul id='hamburger-list' role='menubar'>
+<li><a href='/' role='menuitem'>Home</a></li>
+<li><a href='megamenu/recent' role='menuitem'>Mega Menu</a></li>
+<li><a href='https://appsgeyser.com/widgetdownload.php?widget=ExpertsMania_14619029&_ga=2.17778876.426634621.1634313765-598413465.1634313765' role='menuitem'>Download Our APP</a></li>
+<li><a href='https://expertsmania.blogspot.com/p/contacts-us.html' role='menuitem'>Contact us</a></li>
+</ul>
+</div></div>
+</div>
+</nav>
+<a class='search-button' href='#'></a>
+</div>
+</div>
+</div>
+</header>
+<div class='search-container-overlay'>
+<a class='search-container-close' href='#'></a>
+<div class='search-container-wrapper'>
+<div class='search-msg'>Type Here to Get Search Results !</div>
+<form action='/search' class='search-container' method='get' role='search'>
+<input class='search-input' name='q' placeholder='Search Here...' spellcheck='false' type='text'/>
+<i class='fa fa-search'>
+<input type='submit' value=''/>
+</i>
+</form>
+</div>
+</div>
+<div class='clearfix'></div>
+<div class='mega-wrap'>
+<div class='container'>
+<div class='header-nos section' id='header-nos' name='Blog Pannel'><div class='widget Image' data-version='2' id='Image151'>
+<div class='widget-content'>
+<div class='about-content'>
+<div class='widget-title'>
+<h3 class='title'>ExpertsMania-Pushing Limits.</h3>
+</div>
+<span class='image-caption'>Learn fastest & easiest ways to improve technical knowladge</span>
+</div>
+<div class='header-logo custom-image' srcset='//4.bp.blogspot.com/-wvnPd0hgadY/X5Q03OEVpUI/AAAAAAAACls/tDIlx3Il9MYtk_GOb5jpiWg4y4MhzfQ4QCK4BGAYYCw/s72/Webp.net-resizeimage%2B%25281%2529.png 72w, //4.bp.blogspot.com/-wvnPd0hgadY/X5Q03OEVpUI/AAAAAAAACls/tDIlx3Il9MYtk_GOb5jpiWg4y4MhzfQ4QCK4BGAYYCw/s128/Webp.net-resizeimage%2B%25281%2529.png 128w, //4.bp.blogspot.com/-wvnPd0hgadY/X5Q03OEVpUI/AAAAAAAACls/tDIlx3Il9MYtk_GOb5jpiWg4y4MhzfQ4QCK4BGAYYCw/s220/Webp.net-resizeimage%2B%25281%2529.png 220w, //4.bp.blogspot.com/-wvnPd0hgadY/X5Q03OEVpUI/AAAAAAAACls/tDIlx3Il9MYtk_GOb5jpiWg4y4MhzfQ4QCK4BGAYYCw/s400/Webp.net-resizeimage%2B%25281%2529.png 400w, //4.bp.blogspot.com/-wvnPd0hgadY/X5Q03OEVpUI/AAAAAAAACls/tDIlx3Il9MYtk_GOb5jpiWg4y4MhzfQ4QCK4BGAYYCw/s640/Webp.net-resizeimage%2B%25281%2529.png 640w, //4.bp.blogspot.com/-wvnPd0hgadY/X5Q03OEVpUI/AAAAAAAACls/tDIlx3Il9MYtk_GOb5jpiWg4y4MhzfQ4QCK4BGAYYCw/s800/Webp.net-resizeimage%2B%25281%2529.png 800w, //4.bp.blogspot.com/-wvnPd0hgadY/X5Q03OEVpUI/AAAAAAAACls/tDIlx3Il9MYtk_GOb5jpiWg4y4MhzfQ4QCK4BGAYYCw/s1024/Webp.net-resizeimage%2B%25281%2529.png 1024w, //4.bp.blogspot.com/-wvnPd0hgadY/X5Q03OEVpUI/AAAAAAAACls/tDIlx3Il9MYtk_GOb5jpiWg4y4MhzfQ4QCK4BGAYYCw/s1280/Webp.net-resizeimage%2B%25281%2529.png 1280w, //4.bp.blogspot.com/-wvnPd0hgadY/X5Q03OEVpUI/AAAAAAAACls/tDIlx3Il9MYtk_GOb5jpiWg4y4MhzfQ4QCK4BGAYYCw/s1600/Webp.net-resizeimage%2B%25281%2529.png 1600w'>
+<img alt='ExpertsMania' id='Image151_img' src='//4.bp.blogspot.com/-wvnPd0hgadY/X5Q03OEVpUI/AAAAAAAACls/tDIlx3Il9MYtk_GOb5jpiWg4y4MhzfQ4QCK4BGAYYCw/s1027/Webp.net-resizeimage%2B%25281%2529.png'/>
+</div>
+<a href='https://expertsmania.blogspot.com/'><div class='button-content'><span>Click Here for More </span></div></a>
+</div>
+</div></div>
+<div class='clearfix'></div>
+</div>
+</div>
+<!-- Content Wrapper -->
+<div id='center-container'>
+<div class='container outer-container1'>
+<div class='title-wg'>Explore and Learn</div>
+<div class='blighter-seo section' id='blighter-seo' name='Category Label Image'><div class='widget Image' data-version='2' id='Image101'>
+<div class='widget-content'>
+<div class='blighter-seo-img'>
+<a href='https://t.me/expertsmania'>
+<img alt='JOIN WITH US' height='1024' id='Image101_img' src='img2.jpg' width='1600'/>
+</a>
+</div>
+</div>
+<div class='blighter-seo-title'>
+<h2>
+<a href='https://t.me/expertsmania'>
+JOIN WITH US
+</a>
+</h2>
+</div>
+</div><div class='widget Image' data-version='2' id='Image102'>
+<div class='widget-content'>
+<div class='blighter-seo-img'>
+<a href='https://t.me/expertsmania'>
+<img alt='GROW KNOWLADGE WITH US' height='697' id='Image102_img' src='https://thumbs.dreamstime.com/b/hand-magnifying-glass-over-knowledge-words-29854402.jpg' width='800'/>
+</a>
+</div>
+</div>
+<div class='blighter-seo-title'>
+<h2>
+<a href='https://t.me/expertsmania'>
+GROW KNOWLADGE WITH US
+</a>
+</h2>
+</div>
+</div><div class='widget Image' data-version='2' id='Image103'>
+<div class='widget-content'>
+<div class='blighter-seo-img'>
+<a href='https://appsgeyser.com/widgetdownload.php?widget=ExpertsMania_14619029&_ga=2.17778876.426634621.1634313765-598413465.1634313765'>
+<img alt='Download ExpertsMania Application For Mobile' height='384' id='Image103_img' src='https://cdn.outsource2india.com/software/mobile-applications/images/android-app-development.jpg' width='328'/>
+</a>
+</div>
+</div>
+<div class='blighter-seo-title'>
+<h2>
+<a href='https://appsgeyser.com/widgetdownload.php?widget=ExpertsMania_14619029&_ga=2.17778876.426634621.1634313765-598413465.1634313765'>
+Download ExpertsMania Application For Mobile
+</a>
+</h2>
+</div>
+</div><div class='widget Image' data-version='2' id='Image104'>
+<div class='widget-content'>
+<div class='blighter-seo-img'>
+<a href='/'>
+<img alt='Backlinks on Analysis' height='256' id='Image104_img' src='//2.bp.blogspot.com/-9YhJx6tkO1w/X5PjfKC4LHI/AAAAAAAACkw/2DB_OCEw_RM2i3D3SvDJKF_2Fnj92W55wCK4BGAYYCw/s256/Keyword-Analysis-Icon%2B%25281%2529.png' width='256'/>
+</a>
+</div>
+</div>
+<div class='blighter-seo-title'>
+<h2>
+<a href='/'>
+Backlinks on Analysis
+</a>
+</h2>
+</div>
+</div></div>
+<div class='clearfix'></div>
+<div class='head-title section' id='head-title' name='Header Posts'><div class='widget Text' data-version='2' id='Text2'>
+<div class='widget-title'>
+<h3 class='title'>Our Most Powerfull Concept</h3>
+</div>
+<p class='widget-content'>Here we works better to Provide a Premium Service where users can get most Liked Gadgets.</p>
+</div></div>
+<div class='clearfix'></div>
+<div class='lighter-box section' id='top-lighter-main-widget' name='blighter lighter Feature Posts'><div class='widget HTML' data-version='2' id='HTML11'>
+<div class='widget-title'>
+<h3 class='title'>Trending Post</h3>
+</div>
+<div class='widget-content'>
+6/ugrid/recent
+</div>
+</div></div>
+<div class='clearfix'></div>
+<div class='main-ads-pikihome section' id='main-ads2' name='Homepage Ad Here !'><div class='widget HTML' data-version='2' id='HTML4'>
+<div class='widget-title'>
+<h3 class='title'>Shop Now</h3>
+</div>
+<div class='widget-content'>
+/
+</div>
+</div>
+</div>
+<div class='clearfix'></div>
+<div class='head-title section' id='head-title1' name='Header Posts'><div class='widget Text' data-version='2' id='Text3'>
+<div class='widget-title'>
+<h3 class='title'>Recent Blog Posts</h3>
+</div>
+<p class='widget-content'>See Our Work here below to Inspire Learn More About SEO.</p>
+</div></div>
+<div class='clearfix'></div>
+</div>
+<!-- Main Wrapper -->
+<div id='center-container'>
+<div class='container outer-container'>
+<main id='feed-view'>
+<div class='main section' id='main' name='Main Posts'><div class='widget Blog' data-version='2' id='Blog1'>
+<div class='blog-posts hfeed container post-filter-wrap'>
+<div class='grid-posts'>
+<article class='blog-post hentry post-filter post-0' itemscope='itemscope' itemtype='http://schema.org/Blog'>
+<div class='post-filter-inside-wrap'>
+<div class='post-filter-image'>
+<a class='post-filter-link' href='https://expertsmania.blogspot.com/2022/01/which-programming-language-should-i.html'>
+<img alt='Which programming language should I learn to get job as fresher. ' class='snip-thumbnail' src='https://blogger.googleusercontent.com/img/a/AVvXsEgtJPM_mB_2WSffiHeCdSzu07ra5geml2MWCSSk4gjV-DN5kjUq4HguiupIRWvLY67FJou-ZbLkZotqibL_3SWQ4HVB9wmskCjK_7qY_A8VobrnpKhULjqJUM0LigmLpxaSPQp36AI3A9NzTDtZajQeaaZ2mMhaxZNizoBYQNc6Z5aTGYYmD_zMjDjyCw=w680'/>
+</a>
+<span class='post-tag post-filter-tag'>
+Which programming language should I learn to get job as fresher.
+ Which programming language is best for getting job in Infosys. What programming language should I learn to get a high paying job.
+</span>
+</div>
+<div class='blighter-hero-box'>
+<h2 class='post-title vcard'>
+<a href='https://expertsmania.blogspot.com/2022/01/which-programming-language-should-i.html'>Which programming language should I learn to get job as fresher. </a>
+</h2>
+<div class='post-snipt'>
+<span class='post-author'>ExpertsMania</span>
+<span class='post-comments'>1 Comments</span>
+</div>
+<div class='post-snip'>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+<div class='blog-pager container' id='blog-pager'>
+<a class='blog-pager-older-link' href='https://expertsmania.blogspot.com/search?updated-max=2022-01-11T15:29:00%2B05:30&amp;max-results=7' id='Blog1_blog-pager-older-link' title='Older Posts'>
+Older Posts
+</a>
+</div>
+
+              <script type='text/javascript'>
+              var messages = {
+              showMore: "Show more",
+              postAuthor: "true",
+              postDate: "true"
+              }
+              </script>
+            
+</div></div>
+<div id='custom-ads-placeholder'>
+</div>
+<div class='clearfix'></div>
+<div class='main-ads-pikihome section' id='main-ads' name='Homepage Ad Here !'><div class='widget HTML' data-version='2' id='HTML10'>
+<div class='widget-content'>
+<!-- Bulletprofit - Ad Display Code -->
+<script data-cfasync="false" async type="text/javascript" src="//bulletprofitpop.com/display/items.php?107331&27714&0&0&4&9"></script>
+<!-- Bulletprofit - Ad Display Code -->
+</div>
+</div>
+</div>
+<div class='clearfix'></div>
+<div class='social-tabs section' id='social-tab' name='Social Widget'><div class='widget LinkList' data-version='2' id='LinkList77'>
+<div class='widget-title'>
+<h3 class='title'>Social Plugin</h3>
+</div>
+<div class='widget-content'>
+<ul class='socialtab social'>
+<li>
+<a class='facebook' href='https://www.facebook.com/abhishek.wabale.9/' target='_blank' title='facebook'>
+</a>
+<div><a href='https://www.facebook.com/abhishek.wabale.9/'>facebook</a></div>
+</li>
+<li>
+<a class='telegram' href='https://t.me/expertsmania' target='_blank' title='telegram'>
+</a>
+<div><a href='https://t.me/expertsmania'>telegram</a></div>
+</li>
+<li>
+<a class='instagram' href=' https://www.instagram.com/invites/contact/?i=15zmpjx8shnag&utm_content=44p1a5b' target='_blank' title='instagram'>
+</a>
+<div><a href=' https://www.instagram.com/invites/contact/?i=15zmpjx8shnag&utm_content=44p1a5b'>instagram</a></div>
+</li>
+<li>
+<a class='youtube' href='https://youtube.com/channel/UCXIkE6F23Eak-ebW0861JeA' target='_blank' title='youtube'>
+</a>
+<div><a href='https://youtube.com/channel/UCXIkE6F23Eak-ebW0861JeA'>youtube</a></div>
+</li>
+</ul>
+</div>
+</div></div>
+<div class='clearfix'></div>
+<div class='head-title section' id='head-title2' name='Header Posts'><!--Failed to render gadget 'Profile1'.
+
+There was an error processing the markup.
+--></div>
+<div class='clearfix'></div>
+<div class='bottom-nos section' id='bottom-nos' name='Blog Pannel'>
+<div class='widget Image' data-version='2' id='Image152'>
+<div class='widget-content'>
+<div class='header-logo custom-image' srcset='https://1.bp.blogspot.com/-2NLwqcB4tNo/YWfguK8vb_I/AAAAAAAAAFg/X1MGs6pcu2oGESzmbo0le5PffiP1rS9YwCNcBGAsYHQ/s72/headway-5QgIuuBxKwM-unsplash.jpg 72w, https://1.bp.blogspot.com/-2NLwqcB4tNo/YWfguK8vb_I/AAAAAAAAAFg/X1MGs6pcu2oGESzmbo0le5PffiP1rS9YwCNcBGAsYHQ/s128/headway-5QgIuuBxKwM-unsplash.jpg 128w, https://1.bp.blogspot.com/-2NLwqcB4tNo/YWfguK8vb_I/AAAAAAAAAFg/X1MGs6pcu2oGESzmbo0le5PffiP1rS9YwCNcBGAsYHQ/s220/headway-5QgIuuBxKwM-unsplash.jpg 220w, https://1.bp.blogspot.com/-2NLwqcB4tNo/YWfguK8vb_I/AAAAAAAAAFg/X1MGs6pcu2oGESzmbo0le5PffiP1rS9YwCNcBGAsYHQ/s400/headway-5QgIuuBxKwM-unsplash.jpg 400w, https://1.bp.blogspot.com/-2NLwqcB4tNo/YWfguK8vb_I/AAAAAAAAAFg/X1MGs6pcu2oGESzmbo0le5PffiP1rS9YwCNcBGAsYHQ/s640/headway-5QgIuuBxKwM-unsplash.jpg 640w, https://1.bp.blogspot.com/-2NLwqcB4tNo/YWfguK8vb_I/AAAAAAAAAFg/X1MGs6pcu2oGESzmbo0le5PffiP1rS9YwCNcBGAsYHQ/s800/headway-5QgIuuBxKwM-unsplash.jpg 800w, https://1.bp.blogspot.com/-2NLwqcB4tNo/YWfguK8vb_I/AAAAAAAAAFg/X1MGs6pcu2oGESzmbo0le5PffiP1rS9YwCNcBGAsYHQ/s1024/headway-5QgIuuBxKwM-unsplash.jpg 1024w, https://1.bp.blogspot.com/-2NLwqcB4tNo/YWfguK8vb_I/AAAAAAAAAFg/X1MGs6pcu2oGESzmbo0le5PffiP1rS9YwCNcBGAsYHQ/s1280/headway-5QgIuuBxKwM-unsplash.jpg 1280w, https://1.bp.blogspot.com/-2NLwqcB4tNo/YWfguK8vb_I/AAAAAAAAAFg/X1MGs6pcu2oGESzmbo0le5PffiP1rS9YwCNcBGAsYHQ/s1600/headway-5QgIuuBxKwM-unsplash.jpg 1600w'>
+<img alt='ExpertsMania' id='Image152_img' src='https://1.bp.blogspot.com/-2NLwqcB4tNo/YWfguK8vb_I/AAAAAAAAAFg/X1MGs6pcu2oGESzmbo0le5PffiP1rS9YwCNcBGAsYHQ/s1600/headway-5QgIuuBxKwM-unsplash.jpg'/>
+</div>
+<div class='about-content'>
+<div class='widget-title'>
+<h3 class='title'>Start Your Business Now</h3>
+</div>
+<a href='https://youtube.com/channel/UCXIkE6F23Eak-ebW0861JeA'><div class='button-content'><span>Click Here for More </span></div></a>
+</div>
+</div>
+</div></div>
+<div class='clearfix'></div>
+</main>
+<!-- Sidebar Wrapper -->
+<div id='sidebar-container'>
+<div class='sidebar widget-control section' id='sidebar1' name='Sidebar Right (A)'><div class='widget HTML' data-version='2' id='HTML6'>
+<div class='widget-content'>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=abhi2151-21&marketplace=amazon&amp;region=IN&placement=B091FJ5WPQ&asins=B091FJ5WPQ&linkId=b4d9a456252a8ca4964d71a0047ac31b&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=abhi2151-21&marketplace=amazon&amp;region=IN&placement=B09DFQSSRG&asins=B09DFQSSRG&linkId=c691493f0215bdfaf55c4c21f5d8811e&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+</div>
+</div><div class='widget HTML' data-version='2' id='HTML1'>
+<div class='widget-title'>
+<h3 class='title'>Ads</h3>
+</div>
+<div class='widget-content'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2478022146061585"
+     crossorigin="anonymous"></script>
+</div>
+</div><div class='widget Attribution' data-version='2' id='Attribution1'>
+<div class='widget-content'>
+<div class='blogger'>
+<a href='https://www.blogger.com' rel='nofollow'>
+<svg class='svg-icon-24'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_post_blogger_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+Powered by Blogger
+</a>
+</div>
+</div>
+</div><div class='widget ReportAbuse' data-version='2' id='ReportAbuse1'>
+<h3 class='title'>
+<a class='report_abuse' href='https://www.blogger.com/go/report-abuse' rel='noopener nofollow' target='_blank'>
+Report Abuse
+</a>
+</h3>
+</div><div class='widget FeaturedPost' data-version='2' id='FeaturedPost1'>
+<div class='widget-content'>
+<div class='post'>
+<div class='post-content'>
+<a class='post-filter-link' href='https://expertsmania.blogspot.com/2022/01/which-programming-language-should-i.html'>
+<img alt='Which programming language should I learn to get job as fresher. ' class='snip-thumbnail' src='https://blogger.googleusercontent.com/img/a/AVvXsEgtJPM_mB_2WSffiHeCdSzu07ra5geml2MWCSSk4gjV-DN5kjUq4HguiupIRWvLY67FJou-ZbLkZotqibL_3SWQ4HVB9wmskCjK_7qY_A8VobrnpKhULjqJUM0LigmLpxaSPQp36AI3A9NzTDtZajQeaaZ2mMhaxZNizoBYQNc6Z5aTGYYmD_zMjDjyCw=w680'/>
+<span class='post-tag'>Which programming language should I learn to get job as fresher.
+ Which programming language is best for getting job in Infosys. What programming language should I learn to get a high paying job.</span>
+</a>
+<div class='blighter-hero-box'>
+<h2 class='post-title vcard'>
+<a href='https://expertsmania.blogspot.com/2022/01/which-programming-language-should-i.html'>Which programming language should I learn to get job as fresher. </a>
+</h2>
+<div class='post-snip'>
+<span class='post-date published' datetime='2022-01-11T15:29:00+05:30'>January 11, 2022</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class='widget BlogSearch' data-version='2' id='BlogSearch1'>
+<div class='widget-title'>
+<h3 class='title'>Search This Blog</h3>
+</div>
+<div class='widget-content' role='search'>
+<form action='https://expertsmania.blogspot.com/search' class='search-form' target='_top'>
+<input aria-label='Search this blog' autocomplete='off' class='search-input' name='q' placeholder='Search this blog' value=''/>
+<input class='search-action' type='submit' value='Search'/>
+</form>
+</div>
+</div>
+<div class='widget Label' data-version='2' id='Label1'>
+<details class='collapsible extendable'>
+<div class='widget-title'>
+<h3 class='title'>Labels</h3>
+</div>
+<div class='widget-content list-label'>
+<div class='first-items'>
+<ul>
+<li><a class='label-name' href='https://expertsmania.blogspot.com/search/label/000%20in%202021'>000 in 2021</a></li>
+<li><a class='label-name' href='https://expertsmania.blogspot.com/search/label/17%20Best%20WhatsApp%20Mod%20APK%20Apps%20Download%20%28Updated%202021%29'>17 Best WhatsApp Mod APK Apps Download (Updated 2021)</a></li>
+<li><a class='label-name' href='https://expertsmania.blogspot.com/search/label/Best%20Gaming%20Headphones%20Under%205000'>Best Gaming Headphones Under 5000</a></li>
+<li><a class='label-name' href='https://expertsmania.blogspot.com/search/label/Best%20Gaming%20Laptops%20Under%2060000'>Best Gaming Laptops Under 60000</a></li>
+<li><a class='label-name' href='https://expertsmania.blogspot.com/search/label/Best%20Processors%20for%20Gaming%20on%20Smartphones'>Best Processors for Gaming on Smartphones</a></li>
+<li><a class='label-name' href='https://expertsmania.blogspot.com/search/label/Download%20%20GB%20WhatsApp'>Download  GB WhatsApp</a></li>
+<li><a class='label-name' href='https://expertsmania.blogspot.com/search/label/Download%20%20WhatsApp%20plus'>Download  WhatsApp plus</a></li>
+<li><a class='label-name' href='https://expertsmania.blogspot.com/search/label/Download%20FM%20WhatsApp'>Download FM WhatsApp</a></li>
+<li><a class='label-name' href='https://expertsmania.blogspot.com/search/label/Download%20YO%20WhatsApp'>Download YO WhatsApp</a></li>
+<li><a class='label-name' href='https://expertsmania.blogspot.com/search/label/How%20To%20Get%20Free%20Netflix%20Account'>How To Get Free Netflix Account</a></li>
+</ul>
+</div>
+<div class='remaining-items'>
+<ul>
+<li><a class='label-name' href='https://expertsmania.blogspot.com/search/label/Instagram%20Pro%20MOD%20APK%208.55%20Download%20%28Instapro%29%202021%20Letest%20Vesion%20Free'>Instagram Pro MOD APK 8.55 Download (Instapro) 2021 Letest Vesion Free</a></li>
+<li><a class='label-name' href='https://expertsmania.blogspot.com/search/label/Top%2010%20gaming%20mobiles%20under%20Rs.%2020'>Top 10 gaming mobiles under Rs. 20</a></li>
+<li><a class='label-name' href='https://expertsmania.blogspot.com/search/label/Top%20Gaming%20Mouse%20Under%20Rs.%203000%20in%20India%202021'>Top Gaming Mouse Under Rs. 3000 in India 2021</a></li>
+<li><a class='label-name' href='https://expertsmania.blogspot.com/search/label/Which%20programming%20language%20should%20I%20learn%20to%20get%20job%20as%20fresher.%0A%20Which%20programming%20language%20is%20best%20for%20getting%20job%20in%20Infosys.%20What%20programming%20language%20should%20I%20learn%20to%20get%20a%20high%20paying%20job.'>Which programming language should I learn to get job as fresher.
+ Which programming language is best for getting job in Infosys. What programming language should I learn to get a high paying job.</a></li>
+</ul>
+</div>
+<span class='show-more flat-button'>Show more</span>
+<span class='show-less hidden flat-button'>Show less</span>
+</div>
+</details>
+</div><div class='widget Image' data-version='2' id='Image2'>
+<div class='widget-title'>
+<h3 class='title'>About Us</h3>
+</div>
+<div class='widget-content'>
+<a href='https://expertsmania.blogspot.com/p/about.html'>
+<img alt='About Us' height='500' id='Image2_img' src='https://1.bp.blogspot.com/-dkzkZ0CX2tY/YVUaR-EVsoI/AAAAAAAAAAg/sRl2Ux7WXsc_vXYF4GraXtSnNtH1CjdHQCNcBGAsYHQ/s500/expert.jpg' srcset='https://1.bp.blogspot.com/-dkzkZ0CX2tY/YVUaR-EVsoI/AAAAAAAAAAg/sRl2Ux7WXsc_vXYF4GraXtSnNtH1CjdHQCNcBGAsYHQ/s72/expert.jpg 72w, https://1.bp.blogspot.com/-dkzkZ0CX2tY/YVUaR-EVsoI/AAAAAAAAAAg/sRl2Ux7WXsc_vXYF4GraXtSnNtH1CjdHQCNcBGAsYHQ/s128/expert.jpg 128w, https://1.bp.blogspot.com/-dkzkZ0CX2tY/YVUaR-EVsoI/AAAAAAAAAAg/sRl2Ux7WXsc_vXYF4GraXtSnNtH1CjdHQCNcBGAsYHQ/s220/expert.jpg 220w, https://1.bp.blogspot.com/-dkzkZ0CX2tY/YVUaR-EVsoI/AAAAAAAAAAg/sRl2Ux7WXsc_vXYF4GraXtSnNtH1CjdHQCNcBGAsYHQ/s400/expert.jpg 400w, https://1.bp.blogspot.com/-dkzkZ0CX2tY/YVUaR-EVsoI/AAAAAAAAAAg/sRl2Ux7WXsc_vXYF4GraXtSnNtH1CjdHQCNcBGAsYHQ/s640/expert.jpg 640w, https://1.bp.blogspot.com/-dkzkZ0CX2tY/YVUaR-EVsoI/AAAAAAAAAAg/sRl2Ux7WXsc_vXYF4GraXtSnNtH1CjdHQCNcBGAsYHQ/s800/expert.jpg 800w, https://1.bp.blogspot.com/-dkzkZ0CX2tY/YVUaR-EVsoI/AAAAAAAAAAg/sRl2Ux7WXsc_vXYF4GraXtSnNtH1CjdHQCNcBGAsYHQ/s1024/expert.jpg 1024w, https://1.bp.blogspot.com/-dkzkZ0CX2tY/YVUaR-EVsoI/AAAAAAAAAAg/sRl2Ux7WXsc_vXYF4GraXtSnNtH1CjdHQCNcBGAsYHQ/s1280/expert.jpg 1280w, https://1.bp.blogspot.com/-dkzkZ0CX2tY/YVUaR-EVsoI/AAAAAAAAAAg/sRl2Ux7WXsc_vXYF4GraXtSnNtH1CjdHQCNcBGAsYHQ/s1600/expert.jpg 1600w' width='500'>
+</img>
+</a>
+<br/>
+</div>
+</div>
+<div class='widget PageList' data-version='2' id='PageList1'>
+<div class='widget-content'>
+<ul>
+<li class='selected'>
+<a href='https://expertsmania.blogspot.com/'>Home</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class='sidebar section' id='social-widget' name='Social Widget'><div class='widget LinkList' data-version='2' id='LinkList76'>
+<div class='widget-title'>
+<h3 class='title'>Social Plugin</h3>
+</div>
+<div class='widget-content'>
+<ul class='socialFilter social-bg social'>
+<li>
+<a class='facebook' href='https://www.facebook.com/abhishek.wabale.9/' target='_blank' title='facebook'>
+facebook
+</a>
+</li>
+<li>
+<a class='twitter' href='#' target='_blank' title='twitter'>
+twitter
+</a>
+</li>
+<li>
+<a class='whatsapp' href='#' target='_blank' title='whatsapp'>
+whatsapp
+</a>
+</li>
+<li>
+<a class='reddit' href='#' target='_blank' title='reddit'>
+reddit
+</a>
+</li>
+<li>
+<a class='pinterest' href='#' target='_blank' title='pinterest'>
+pinterest
+</a>
+</li>
+<li>
+<a class='telegram' href='https://t.me/expertsmania' target='_blank' title='telegram'>
+telegram
+</a>
+</li>
+<li>
+<a class='instagram' href=' https://www.instagram.com/invites/contact/?i=15zmpjx8shnag&utm_content=44p1a5b' target='_blank' title='instagram'>
+instagram
+</a>
+</li>
+<li>
+<a class='youtube' href='https://youtube.com/channel/UCXIkE6F23Eak-ebW0861JeA' target='_blank' title='youtube'>
+youtube
+</a>
+</li>
+</ul>
+</div>
+</div></div>
+<div class='sidebar widget-control section' id='sidebar2' name='Sidebar Right (B)'><div class='widget HTML' data-version='2' id='HTML14'>
+<div class='widget-content'>
+<!-- Bulletprofit - Ad Display Code -->
+<script data-cfasync="false" async type="text/javascript" src="//bulletprofitpop.com/display/items.php?107331&27714&0&0&4&9"></script>
+<!-- Bulletprofit - Ad Display Code -->
+</div>
+</div><div class='widget HTML' data-version='2' id='HTML12'>
+<div class='widget-content'>
+<!-- Bulletprofit - Ad Display Code -->
+<script data-cfasync="false" async type="text/javascript" src="//bulletprofitpop.com/display/items.php?107331&27714&0&0&4&9"></script>
+<!-- Bulletprofit - Ad Display Code -->
+</div>
+</div><div class='widget PopularPosts' data-version='2' id='PopularPosts1'>
+<div class='widget-title'>
+<h3 class='title'>Chocolate Cake</h3>
+</div>
+<div class='widget-content'>
+<article class='post'>
+<div class='post-content'>
+<a class='post-filter-link' href='https://expertsmania.blogspot.com/2021/10/how-to-get-free-netflix-account.html'>
+<img alt='How To Get Free Netflix Account ' class='snip-thumbnail' src='https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ex2OmZJwNv2yWi9dOmfJp9FdohIhezy1rtc2dmBnNYvWScpIJzOaE_NAXngYDbt6LP7E4OGrozd2J88RjdkfTlnx4F1nBo8WQitRz97amdroKEtXdtDZu3jNYWCDUUYiAfdnpGGYQ=w680'/>
+</a>
+<div class='blighter-hero-box'>
+<h2 class='post-title vcard'>
+<a href='https://expertsmania.blogspot.com/2021/10/how-to-get-free-netflix-account.html'>How To Get Free Netflix Account </a>
+</h2>
+<div class='post-snip'><span class='post-date'><time class='published' datetime='2021-10-26T12:34:00+05:30'>October 26, 2021</time></span></div>
+</div>
+</div>
+</article>
+<article class='post'>
+<div class='post-content'>
+<a class='post-filter-link' href='https://expertsmania.blogspot.com/2021/10/best-gaming-headphones-under-5000.html'>
+<img alt=' Best Gaming Headphones Under 5000' class='snip-thumbnail' src='https://blogger.googleusercontent.com/img/a/AVvXsEhUZawqhhUlghMT6-5amgxsCHqupQigAsl96a4QX4-jTxbzIrOokWt2SV24B16ofeskK2mQ8B9T3pUpr3mLCw_H_zo8KiZciMe5Z3UGwk8LTsCllt7b1iF_1tpl07x8_23ZXIX1s81RTkybBjw1ktsKzfqYoigyvNGttBBcHviXRQ-yOoAyA5pMzw3RqA=w680'/>
+</a>
+<div class='blighter-hero-box'>
+<h2 class='post-title vcard'>
+<a href='https://expertsmania.blogspot.com/2021/10/best-gaming-headphones-under-5000.html'> Best Gaming Headphones Under 5000</a>
+</h2>
+<div class='post-snip'><span class='post-date'><time class='published' datetime='2021-10-15T21:22:00+05:30'>October 15, 2021</time></span></div>
+</div>
+</div>
+</article>
+<article class='post'>
+<div class='post-content'>
+<a class='post-filter-link' href='https://expertsmania.blogspot.com/2021/10/best-gaming-laptops-under-60000.html'>
+<img alt=' Best Gaming Laptops Under 60000 ' class='snip-thumbnail' src='https://blogger.googleusercontent.com/img/a/AVvXsEhKSiVSVnFtA9gxwyD12LExpXeMsxsP9Vm8xUuqAgdA8DurYumQaeNhyiBlCt6yq_6-K3pCsPGC3yBpdLjZN7sKOIz8-wj0TEo3v0J5KxTyOPYHj6-xepAZDUA2YYXd1VSoWPHFgupLBL1s9UEFrAM4xnaRVGk1dKwc_6sVKb5taahZA9J6B9Uv7FB9ow=w680'/>
+</a>
+<div class='blighter-hero-box'>
+<h2 class='post-title vcard'>
+<a href='https://expertsmania.blogspot.com/2021/10/best-gaming-laptops-under-60000.html'> Best Gaming Laptops Under 60000 </a>
+</h2>
+<div class='post-snip'><span class='post-date'><time class='published' datetime='2021-10-13T21:05:00+05:30'>October 13, 2021</time></span></div>
+</div>
+</div>
+</article>
+<article class='post'>
+<div class='post-content'>
+<a class='post-filter-link' href='https://expertsmania.blogspot.com/2021/11/5-best-whatsapp-mod-apk-apps-download.html'>
+<img alt='5 Best WhatsApp Mod APK Apps Download (Updated 2021)' class='snip-thumbnail' src='https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzUvtYipIdL05kbJrX0bPtChZj9JLTy2ic5Zo-ElMTDv27sKzoAJ460psjJ3RC8bf3ho9o-MTW3v7aQc3gEgoFt5Y2p8Kpi0dIEQBDkoPjbvBn3sQoreYgtUijVCO-ioGcSWu_9-n5GhY-NhQ=w680'/>
+</a>
+<div class='blighter-hero-box'>
+<h2 class='post-title vcard'>
+<a href='https://expertsmania.blogspot.com/2021/11/5-best-whatsapp-mod-apk-apps-download.html'>5 Best WhatsApp Mod APK Apps Download (Updated 2021)</a>
+</h2>
+<div class='post-snip'><span class='post-date'><time class='published' datetime='2021-11-05T12:56:00+05:30'>November 05, 2021</time></span></div>
+</div>
+</div>
+</article>
+</div>
+</div><div class='widget Label' data-version='2' id='Label2'>
+<div class='widget-title'>
+<h3 class='title'>Labels</h3>
+</div>
+<div class='widget-content cloud-label'>
+<ul>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/000%20in%202021'>
+000 in 2021
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/17%20Best%20WhatsApp%20Mod%20APK%20Apps%20Download%20%28Updated%202021%29'>
+17 Best WhatsApp Mod APK Apps Download (Updated 2021)
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Best%20Gaming%20Headphones%20Under%205000'>
+Best Gaming Headphones Under 5000
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Best%20Gaming%20Laptops%20Under%2060000'>
+Best Gaming Laptops Under 60000
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Best%20Processors%20for%20Gaming%20on%20Smartphones'>
+Best Processors for Gaming on Smartphones
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Download%20%20GB%20WhatsApp'>
+Download  GB WhatsApp
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Download%20%20WhatsApp%20plus'>
+Download  WhatsApp plus
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Download%20FM%20WhatsApp'>
+Download FM WhatsApp
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Download%20YO%20WhatsApp'>
+Download YO WhatsApp
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/How%20To%20Get%20Free%20Netflix%20Account'>
+How To Get Free Netflix Account
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Instagram%20Pro%20MOD%20APK%208.55%20Download%20%28Instapro%29%202021%20Letest%20Vesion%20Free'>
+Instagram Pro MOD APK 8.55 Download (Instapro) 2021 Letest Vesion Free
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Top%2010%20gaming%20mobiles%20under%20Rs.%2020'>
+Top 10 gaming mobiles under Rs. 20
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Top%20Gaming%20Mouse%20Under%20Rs.%203000%20in%20India%202021'>
+Top Gaming Mouse Under Rs. 3000 in India 2021
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Which%20programming%20language%20should%20I%20learn%20to%20get%20job%20as%20fresher.%0A%20Which%20programming%20language%20is%20best%20for%20getting%20job%20in%20Infosys.%20What%20programming%20language%20should%20I%20learn%20to%20get%20a%20high%20paying%20job.'>
+Which programming language should I learn to get job as fresher.
+ Which programming language is best for getting job in Infosys. What programming language should I learn to get a high paying job.
+<span class='label-count'>1</span>
+</a>
+</li>
+</ul>
+</div>
+</div><div class='widget HTML' data-version='2' id='HTML5'>
+<div class='widget-title'>
+<h3 class='title'>News</h3>
+</div>
+<div class='widget-content'>
+<a class='piki-ads-res' href="javascript:;">Your Responsive Ads Code (Google Ads)</a>
+</div>
+</div><div class='widget Label' data-version='2' id='Label3'>
+<div class='widget-title'>
+<h3 class='title'>Categories</h3>
+</div>
+<div class='widget-content list-label'>
+<ul>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/000%20in%202021'>
+000 in 2021
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/17%20Best%20WhatsApp%20Mod%20APK%20Apps%20Download%20%28Updated%202021%29'>
+17 Best WhatsApp Mod APK Apps Download (Updated 2021)
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Best%20Gaming%20Headphones%20Under%205000'>
+Best Gaming Headphones Under 5000
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Best%20Gaming%20Laptops%20Under%2060000'>
+Best Gaming Laptops Under 60000
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Best%20Processors%20for%20Gaming%20on%20Smartphones'>
+Best Processors for Gaming on Smartphones
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Download%20%20GB%20WhatsApp'>
+Download  GB WhatsApp
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Download%20%20WhatsApp%20plus'>
+Download  WhatsApp plus
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Download%20FM%20WhatsApp'>
+Download FM WhatsApp
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Download%20YO%20WhatsApp'>
+Download YO WhatsApp
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/How%20To%20Get%20Free%20Netflix%20Account'>
+How To Get Free Netflix Account
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Instagram%20Pro%20MOD%20APK%208.55%20Download%20%28Instapro%29%202021%20Letest%20Vesion%20Free'>
+Instagram Pro MOD APK 8.55 Download (Instapro) 2021 Letest Vesion Free
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Top%2010%20gaming%20mobiles%20under%20Rs.%2020'>
+Top 10 gaming mobiles under Rs. 20
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Top%20Gaming%20Mouse%20Under%20Rs.%203000%20in%20India%202021'>
+Top Gaming Mouse Under Rs. 3000 in India 2021
+<span class='label-count'>1</span>
+</a>
+</li>
+<li>
+<a class='label-name' href='https://expertsmania.blogspot.com/search/label/Which%20programming%20language%20should%20I%20learn%20to%20get%20job%20as%20fresher.%0A%20Which%20programming%20language%20is%20best%20for%20getting%20job%20in%20Infosys.%20What%20programming%20language%20should%20I%20learn%20to%20get%20a%20high%20paying%20job.'>
+Which programming language should I learn to get job as fresher.
+ Which programming language is best for getting job in Infosys. What programming language should I learn to get a high paying job.
+<span class='label-count'>1</span>
+</a>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div class='clearfix'></div>
+<!-- Footer Wrapper -->
+<div id='footer-wrapper'>
+<div class='container outer-container'>
+<div class='footer-widgets-wrap'>
+<div class='footer widget-control section' id='footer-sec2' name='Section (Left)'><div class='widget HTML' data-version='2' id='HTML16'>
+<div class='widget-content'>
+<!-- Bulletprofit - Ad Display Code -->
+<script data-cfasync="false" async type="text/javascript" src="//bulletprofitpop.com/display/items.php?107331&27714&0&0&4&9"></script>
+<!-- Bulletprofit - Ad Display Code -->
+</div>
+</div><div class='widget LinkList' data-version='2' id='LinkList1'>
+<div class='widget-title'>
+<h3 class='title'>Pro Tools here</h3>
+</div>
+<div class='widget-content'>
+<ul>
+<li><a href='/'>Best Tools for SEO</a></li>
+<li><a href='/'>Email Marketing 2020</a></li>
+<li><a href='/'>Free Tools For Blogging</a></li>
+<li><a href='/'>Instant Saving System</a></li>
+<li><a href='/'>2020 Best Chrome Tools</a></li>
+<li><a href='#'>ahref Plan/ Semrush Plan</a></li>
+<li><a href='/'>Semrush Plan</a></li>
+</ul>
+</div>
+</div></div>
+<div class='footer-post footer widget-control section' id='footer-widget' name='Section (Center)'><div class='widget HTML' data-version='2' id='HTML13'>
+<div class='widget-content'>
+<!-- Bulletprofit - Ad Display Code -->
+<script data-cfasync="false" async type="text/javascript" src="//bulletprofitpop.com/display/items.php?107331&27714&0&0&4&9"></script>
+<!-- Bulletprofit - Ad Display Code -->
+</div>
+</div><div class='widget LinkList' data-version='2' id='LinkList2'>
+<div class='widget-title'>
+<h3 class='title'>World Deals For Blog</h3>
+</div>
+<div class='widget-content'>
+<ul>
+<li><a href='/'>Affiliate Marketing ads</a></li>
+</ul>
+</div>
+</div></div>
+<div class='footer widget-control section' id='footer-sec3' name='Section (Right)'><div class='widget PopularPosts' data-version='2' id='PopularPosts2'>
+<div class='widget-title'>
+<h3 class='title'>Tech Pop</h3>
+</div>
+<div class='widget-content'>
+<article class='post'>
+<div class='post-content'>
+<a class='post-filter-link' href='https://expertsmania.blogspot.com/2021/10/how-to-get-free-netflix-account.html'>
+<img alt='How To Get Free Netflix Account ' class='snip-thumbnail' src='https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ex2OmZJwNv2yWi9dOmfJp9FdohIhezy1rtc2dmBnNYvWScpIJzOaE_NAXngYDbt6LP7E4OGrozd2J88RjdkfTlnx4F1nBo8WQitRz97amdroKEtXdtDZu3jNYWCDUUYiAfdnpGGYQ=w680'/>
+</a>
+<div class='blighter-hero-box'>
+<h2 class='post-title vcard'>
+<a href='https://expertsmania.blogspot.com/2021/10/how-to-get-free-netflix-account.html'>How To Get Free Netflix Account </a>
+</h2>
+<div class='post-snip'><span class='post-date'><time class='published' datetime='2021-10-26T12:34:00+05:30'>October 26, 2021</time></span></div>
+</div>
+</div>
+</article>
+<article class='post'>
+<div class='post-content'>
+<a class='post-filter-link' href='https://expertsmania.blogspot.com/2021/10/best-gaming-headphones-under-5000.html'>
+<img alt=' Best Gaming Headphones Under 5000' class='snip-thumbnail' src='https://blogger.googleusercontent.com/img/a/AVvXsEhUZawqhhUlghMT6-5amgxsCHqupQigAsl96a4QX4-jTxbzIrOokWt2SV24B16ofeskK2mQ8B9T3pUpr3mLCw_H_zo8KiZciMe5Z3UGwk8LTsCllt7b1iF_1tpl07x8_23ZXIX1s81RTkybBjw1ktsKzfqYoigyvNGttBBcHviXRQ-yOoAyA5pMzw3RqA=w680'/>
+</a>
+<div class='blighter-hero-box'>
+<h2 class='post-title vcard'>
+<a href='https://expertsmania.blogspot.com/2021/10/best-gaming-headphones-under-5000.html'> Best Gaming Headphones Under 5000</a>
+</h2>
+<div class='post-snip'><span class='post-date'><time class='published' datetime='2021-10-15T21:22:00+05:30'>October 15, 2021</time></span></div>
+</div>
+</div>
+</article>
+<article class='post'>
+<div class='post-content'>
+<a class='post-filter-link' href='https://expertsmania.blogspot.com/2021/10/best-gaming-laptops-under-60000.html'>
+<img alt=' Best Gaming Laptops Under 60000 ' class='snip-thumbnail' src='https://blogger.googleusercontent.com/img/a/AVvXsEhKSiVSVnFtA9gxwyD12LExpXeMsxsP9Vm8xUuqAgdA8DurYumQaeNhyiBlCt6yq_6-K3pCsPGC3yBpdLjZN7sKOIz8-wj0TEo3v0J5KxTyOPYHj6-xepAZDUA2YYXd1VSoWPHFgupLBL1s9UEFrAM4xnaRVGk1dKwc_6sVKb5taahZA9J6B9Uv7FB9ow=w680'/>
+</a>
+<div class='blighter-hero-box'>
+<h2 class='post-title vcard'>
+<a href='https://expertsmania.blogspot.com/2021/10/best-gaming-laptops-under-60000.html'> Best Gaming Laptops Under 60000 </a>
+</h2>
+<div class='post-snip'><span class='post-date'><time class='published' datetime='2021-10-13T21:05:00+05:30'>October 13, 2021</time></span></div>
+</div>
+</div>
+</article>
+</div>
+</div></div>
+</div>
+<div class='footer-nos section' id='footer-nos' name='Footer Info'><div class='widget Image' data-version='2' id='Image150'>
+<div class='widget-content'>
+<div class='footer-logo custom-image'>
+<a href='https://expertsmania.blogspot.com/'>
+<img alt='ExpertsMania' id='Image150_img' src='img1.jpg'/>
+</a>
+</div>
+<div class='about-content'>
+<div class='widget-title'>
+<h3 class='title'>About Us</h3>
+</div>
+<span class='image-caption'>Information and knowledge about new technology</span>
+</div>
+</div>
+</div><div class='widget LinkList' data-version='2' id='LinkList7'>
+<div class='widget-content'>
+<div class='widget-title'>
+<h3 class='title'>Follow Us</h3>
+</div>
+<ul class='social-footer social-bg-hover social-bg'>
+<li class='facebook-f'><a class='facebook-f' href='/' target='_blank'></a></li>
+<li class='twitter'><a class='twitter' href='/' target='_blank'></a></li>
+<li class='youtube'><a class='youtube' href='/' target='_blank'></a></li>
+<li class='instagram'><a class='instagram' href='/' target='_blank'></a></li>
+<li class='reddit'><a class='reddit' href='/' target='_blank'></a></li>
+</ul>
+</div>
+</div></div>
+<div id='footer-container'>
+<div class='footer-haburger-menu section' id='footer-haburger-menu' name='Footer Menu'><div class='widget LinkList' data-version='2' id='LinkList8'>
+<div class='widget-content'>
+<ul>
+<li><a href='/'>Home</a></li>
+<li><a href='https://expertsmania.blogspot.com/p/about.html'>About</a></li>
+<li><a href='https://expertsmania.blogspot.com/p/contacts-us.html'>Contact us</a></li>
+<li><a href='https://expertsmania.blogspot.com/p/privacy-and-policy.html'>Privacy Policy</a></li>
+<li><a href='https://expertsmania.blogspot.com/p/disclaimer.html'>Disclaimer</a></li>
+</ul>
+</div>
+</div></div>
+<div class='footer-copyright section' id='footer-copyright' name='Footer Attribution'><div class='widget HTML' data-version='2' id='HTML33'>
+<div class='widget-title'>
+<h3 class='title'>Footer Copyright</h3>
+</div>
+<div class='widget-content'>
+<span class='copyright-text widget'>All Right Reserved Copyright &#169; - <p style='text-align:left;'>Copyright (c) 2021 <a href='https://expertsmania.blogspot.com/'>@Expertsmania</a> All Right Reseved</p>
+<div class='ty-copy-container row' style='font-size:1px; opacity:0;'>
+
+
+
+
+Design by <a href='https://www.pikitemplates.com/' id='pikitemplates' rel='dofollow'>Piki Templates</a> | <a href='https://www.freebloggertemplates.org/' target='_blank' title='Distributed by FreeBloggerTemplates.org'>Free Blogger Templates</a></div></span>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<!-- Hidden Widgets -->
+<div id='hidden-widget-container' style='display:none'>
+<div class='hidden-widgets section' id='hidden-widgets'><div class='widget ContactForm' data-version='2' id='ContactForm1'>
+<div class='widget-title'>
+<h3 class='title'>Contact form</h3>
+</div>
+<div class='contact-form-widget'>
+<div class='form'>
+<form name='contact-form'>
+<input class='contact-form-name' id='ContactForm1_contact-form-name' name='name' placeholder='Name' size='30' type='text' value=''/>
+<input class='contact-form-email' id='ContactForm1_contact-form-email' name='email' placeholder='Email*' size='30' type='text' value=''/>
+<textarea class='contact-form-email-message' cols='25' id='ContactForm1_contact-form-email-message' name='email-message' placeholder='Message*' rows='5'></textarea>
+<input class='contact-form-button contact-form-button-submit' id='ContactForm1_contact-form-submit' type='button' value='Send'/>
+<p class='contact-form-error-message' id='ContactForm1_contact-form-error-message'></p>
+<p class='contact-form-success-message' id='ContactForm1_contact-form-success-message'></p>
+</form>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<!-- Main Scripts -->
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+//<![CDATA[   
+/*! Theia Sticky Sidebar | v1.7.0 - https://github.com/WeCodePixels/theia-sticky-sidebar */
+(function($){$.fn.theiaStickySidebar=function(options){var defaults={'containerSelector':'','additionalMarginTop':0,'additionalMarginBottom':0,'updateSidebarHeight':true,'minWidth':0,'disableOnResponsiveLayouts':true,'sidebarBehavior':'modern','defaultPosition':'relative','namespace':'TSS'};options=$.extend(defaults,options);options.additionalMarginTop=parseInt(options.additionalMarginTop)||0;options.additionalMarginBottom=parseInt(options.additionalMarginBottom)||0;tryInitOrHookIntoEvents(options,this);function tryInitOrHookIntoEvents(options,$that){var success=tryInit(options,$that);if(!success){console.log('TSS: Body width smaller than options.minWidth. Init is delayed.');$(document).on('scroll.'+options.namespace,function(options,$that){return function(evt){var success=tryInit(options,$that);if(success){$(this).unbind(evt)}}}(options,$that));$(window).on('resize.'+options.namespace,function(options,$that){return function(evt){var success=tryInit(options,$that);if(success){$(this).unbind(evt)}}}(options,$that))}}function tryInit(options,$that){if(options.initialized===true){return true}if($('body').width()<options.minWidth){return false}init(options,$that);return true}function init(options,$that){options.initialized=true;var existingStylesheet=$('#theia-sticky-sidebar-stylesheet-'+options.namespace);if(existingStylesheet.length===0){$('head').append($('<style id="theia-sticky-sidebar-stylesheet-'+options.namespace+'">.theiaStickySidebar:after {content: ""; display: table; clear: both;}</style>'))}$that.each(function(){var o={};o.sidebar=$(this);o.options=options||{};o.container=$(o.options.containerSelector);if(o.container.length==0){o.container=o.sidebar.parent()}o.sidebar.parents().css('-webkit-transform','none');o.sidebar.css({'position':o.options.defaultPosition,'overflow':'visible','-webkit-box-sizing':'border-box','-moz-box-sizing':'border-box','box-sizing':'border-box'});o.stickySidebar=o.sidebar.find('.theiaStickySidebar');if(o.stickySidebar.length==0){var javaScriptMIMETypes=/(?:text|application)\/(?:x-)?(?:javascript|ecmascript)/i;o.sidebar.find('script').filter(function(index,script){return script.type.length===0||script.type.match(javaScriptMIMETypes)}).remove();o.stickySidebar=$('<div>').addClass('theiaStickySidebar').append(o.sidebar.children());o.sidebar.append(o.stickySidebar)}o.marginBottom=parseInt(o.sidebar.css('margin-bottom'));o.paddingTop=parseInt(o.sidebar.css('padding-top'));o.paddingBottom=parseInt(o.sidebar.css('padding-bottom'));var collapsedTopHeight=o.stickySidebar.offset().top;var collapsedBottomHeight=o.stickySidebar.outerHeight();o.stickySidebar.css('padding-top',1);o.stickySidebar.css('padding-bottom',1);collapsedTopHeight-=o.stickySidebar.offset().top;collapsedBottomHeight=o.stickySidebar.outerHeight()-collapsedBottomHeight-collapsedTopHeight;if(collapsedTopHeight==0){o.stickySidebar.css('padding-top',0);o.stickySidebarPaddingTop=0}else{o.stickySidebarPaddingTop=1}if(collapsedBottomHeight==0){o.stickySidebar.css('padding-bottom',0);o.stickySidebarPaddingBottom=0}else{o.stickySidebarPaddingBottom=1}o.previousScrollTop=null;o.fixedScrollTop=0;resetSidebar();o.onScroll=function(o){if(!o.stickySidebar.is(":visible")){return}if($('body').width()<o.options.minWidth){resetSidebar();return}if(o.options.disableOnResponsiveLayouts){var sidebarWidth=o.sidebar.outerWidth(o.sidebar.css('float')=='none');if(sidebarWidth+50>o.container.width()){resetSidebar();return}}var scrollTop=$(document).scrollTop();var position='static';if(scrollTop>=o.sidebar.offset().top+(o.paddingTop-o.options.additionalMarginTop)){var offsetTop=o.paddingTop+options.additionalMarginTop;var offsetBottom=o.paddingBottom+o.marginBottom+options.additionalMarginBottom;var containerTop=o.sidebar.offset().top;var containerBottom=o.sidebar.offset().top+getClearedHeight(o.container);var windowOffsetTop=0+options.additionalMarginTop;var windowOffsetBottom;var sidebarSmallerThanWindow=(o.stickySidebar.outerHeight()+offsetTop+offsetBottom)<$(window).height();if(sidebarSmallerThanWindow){windowOffsetBottom=windowOffsetTop+o.stickySidebar.outerHeight()}else{windowOffsetBottom=$(window).height()-o.marginBottom-o.paddingBottom-options.additionalMarginBottom}var staticLimitTop=containerTop-scrollTop+o.paddingTop;var staticLimitBottom=containerBottom-scrollTop-o.paddingBottom-o.marginBottom;var top=o.stickySidebar.offset().top-scrollTop;var scrollTopDiff=o.previousScrollTop-scrollTop;if(o.stickySidebar.css('position')=='fixed'){if(o.options.sidebarBehavior=='modern'){top+=scrollTopDiff}}if(o.options.sidebarBehavior=='stick-to-top'){top=options.additionalMarginTop}if(o.options.sidebarBehavior=='stick-to-bottom'){top=windowOffsetBottom-o.stickySidebar.outerHeight()}if(scrollTopDiff>0){top=Math.min(top,windowOffsetTop)}else{top=Math.max(top,windowOffsetBottom-o.stickySidebar.outerHeight())}top=Math.max(top,staticLimitTop);top=Math.min(top,staticLimitBottom-o.stickySidebar.outerHeight());var sidebarSameHeightAsContainer=o.container.height()==o.stickySidebar.outerHeight();if(!sidebarSameHeightAsContainer&&top==windowOffsetTop){position='fixed'}else if(!sidebarSameHeightAsContainer&&top==windowOffsetBottom-o.stickySidebar.outerHeight()){position='fixed'}else if(scrollTop+top-o.sidebar.offset().top-o.paddingTop<=options.additionalMarginTop){position='static'}else{position='absolute'}}if(position=='fixed'){var scrollLeft=$(document).scrollLeft();o.stickySidebar.css({'position':'fixed','width':getWidthForObject(o.stickySidebar)+'px','transform':'translateY('+top+'px)','left':(o.sidebar.offset().left+parseInt(o.sidebar.css('padding-left'))-scrollLeft)+'px','top':'0px'})}else if(position=='absolute'){var css={};if(o.stickySidebar.css('position')!='absolute'){css.position='absolute';css.transform='translateY('+(scrollTop+top-o.sidebar.offset().top-o.stickySidebarPaddingTop-o.stickySidebarPaddingBottom)+'px)';css.top='0px'}css.width=getWidthForObject(o.stickySidebar)+'px';css.left='';o.stickySidebar.css(css)}else if(position=='static'){resetSidebar()}if(position!='static'){if(o.options.updateSidebarHeight==true){o.sidebar.css({'min-height':o.stickySidebar.outerHeight()+o.stickySidebar.offset().top-o.sidebar.offset().top+o.paddingBottom})}}o.previousScrollTop=scrollTop};o.onScroll(o);$(document).on('scroll.'+o.options.namespace,function(o){return function(){o.onScroll(o)}}(o));$(window).on('resize.'+o.options.namespace,function(o){return function(){o.stickySidebar.css({'position':'static'});o.onScroll(o)}}(o));if(typeof ResizeSensor!=='undefined'){new ResizeSensor(o.stickySidebar[0],function(o){return function(){o.onScroll(o)}}(o))}function resetSidebar(){o.fixedScrollTop=0;o.sidebar.css({'min-height':'1px'});o.stickySidebar.css({'position':'static','width':'','transform':'none'})}function getClearedHeight(e){var height=e.height();e.children().each(function(){height=Math.max(height,$(this).height())});return height}})}function getWidthForObject(object){var width;try{width=object[0].getBoundingClientRect().width}catch(err){}if(typeof width==="undefined"){width=object.width()}return width}return this}})(jQuery);
+//]]>
+</script>
+<!-- Piki Templates Under License Creative Common Rights (CC-3.0) JS Copyrighted -->
+<script type='text/javascript'>
+</script>
+<!-- Pagination Scripts -->
+<script type='text/javascript'>
+//<![CDATA[
+var postResults=postPerPage;
+var numOfPages=2;
+var pageOf=["Page", "of"];
+eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('5 K;5 m;5 l;5 w;5 s=1p.9;5 y="/";1d();G 1b(a){5 b=\'\';J=M(W/2);4(J==W-J){W=J*2+1}D=l-J;4(D<1)D=1;j=M(a/n)+1;4(j-1==a/n)j=j-1;E=D+W-1;4(E>j)E=j;b+=\'<C 6="3-1u">\'+17[0]+\' \'+l+\' \'+17[1]+\' \'+j+\'</C>\';5 c=M(l)-1;4(l>1){4(l==2){4(m==\'3\'){b+=\'<a 6="3-7 3-U" 9="\'+y+\'"></a>\'}h{b+=\'<a 6="3-7 3-U" 9="/v/u/\'+w+\'?&i-o=\'+n+\'"></a>\'}}h{4(m==\'3\'){b+=\'<a 6="3-7 3-U" 9="#" z="L(\'+c+\');B x"></a>\'}h{b+=\'<a 6="3-7 3-U" 9="#" z="I(\'+c+\');B x"></a>\'}}}4(D>1){4(m=="3"){b+=\'<a 6="3-7" 9="\'+y+\'">1</a>\'}h{b+=\'<a 6="3-7" 9="/v/u/\'+w+\'?&i-o=\'+n+\'">1</a>\'}}4(D>2){b+=\'<C 6="3-7 3-16">...</C>\'}1a(5 d=D;d<=E;d++){4(l==d){b+=\'<C 6="3-7 3-1v">\'+d+\'</C>\'}h 4(d==1){4(m==\'3\'){b+=\'<a 6="3-7" 9="\'+y+\'">1</a>\'}h{b+=\'<a 6="3-7" 9="/v/u/\'+w+\'?&i-o=\'+n+\'">1</a>\'}}h{4(m==\'3\'){b+=\'<a 6="3-7" 9="#" z="L(\'+d+\');B x">\'+d+\'</a>\'}h{b+=\'<a 6="3-7" 9="#" z="I(\'+d+\');B x">\'+d+\'</a>\'}}}4(E<j-1){b+=\'<C 6="3-7 3-16">...</C>\'}4(E<j){4(m=="3"){b+=\'<a 6="3-7" 9="#" z="L(\'+j+\');B x">\'+j+\'</a>\'}h{b+=\'<a 6="3-7" 9="#" z="I(\'+j+\');B x">\'+j+\'</a>\'}}5 e=M(l)+1;4(l<j){4(m==\'3\'){b+=\'<a 6="3-7 3-15" 9="#" z="L(\'+e+\');B x"></a>\'}h{b+=\'<a 6="3-7 3-15" 9="#" z="I(\'+e+\');B x"></a>\'}}b+=\'\';5 f=A.1s(\'1t\');5 g=A.1r(\'1A-1D\');1a(5 p=0;p<f.O;p++){f[p].1c=b}4(f&&f.O>0){b=\'\'}4(g){g.1c=b}}G 12(a){5 b=a.1f;5 c=M(b.1E$1B.$t,10);1b(c)}G 1d(){5 a=s;4(a.k(\'/v/u/\')!=-1){4(a.k(\'?T-i\')!=-1){w=a.H(a.k(\'/v/u/\')+14,a.k(\'?T-i\'))}h{w=a.H(a.k(\'/v/u/\')+14,a.k(\'?&i\'))}}4(a.k(\'?q=\')==-1&&a.k(\'.1C\')==-1){4(a.k(\'/v/u/\')==-1){m=\'3\';4(s.k(\'#F=\')!=-1){l=s.H(s.k(\'#F=\')+8,s.O)}h{l=1}A.18(\'<r Q=\\\'\'+y+\'P/R/N?i-o=1&X=Y-S-r&V=12\\\'><\\/r>\')}h{m=\'u\';4(a.k(\'&i-o=\')==-1){n=1F}4(s.k(\'#F=\')!=-1){l=s.H(s.k(\'#F=\')+8,s.O)}h{l=1}A.18(\'<r Q="\'+y+\'P/R/N/-/\'+w+\'?X=Y-S-r&V=12&i-o=1" ><\\/r>\')}}}G L(a){Z=(a-1)*n;K=a;5 b=A.1h(\'1q\')[0];5 c=A.1o(\'r\');c.1e=\'1m/1n\';c.1i(\'Q\',y+\'P/R/N?1j-1k=\'+Z+\'&i-o=1&X=Y-S-r&V=13\');b.1l(c)}G I(a){Z=(a-1)*n;K=a;5 b=A.1h(\'1q\')[0];5 c=A.1o(\'r\');c.1e=\'1m/1n\';c.1i(\'Q\',y+\'P/R/N/-/\'+w+\'?1j-1k=\'+Z+\'&i-o=1&X=Y-S-r&V=13\');b.1l(c)}G 13(a){11=a.1f.1x[0];5 b=11.1g.$t.H(0,19)+11.1g.$t.H(1z,1w);5 c=1y(b);4(m==\'3\'){5 d=\'/v?T-i=\'+c+\'&i-o=\'+n+\'#F=\'+K}h{5 d=\'/v/u/\'+w+\'?T-i=\'+c+\'&i-o=\'+n+\'#F=\'+K}1p.9=d}',62,104,'|||page|if|var|class|num||href||||||||else|max|lastPageNo|indexOf|currentPageNo|currentPage|postResults|results|||script|locationUrl||label|search|postLabel|false|home_page|onclick|document|return|span|pageStart|pageEnd|PageNo|function|substring|getLabelPage|pageNumber|noPage|getPage|parseInt|summary|length|feeds|src|posts|in|updated|prev|callback|numOfPages|alt|json|jsonstart||post|dataFeed|findPostDate||next|dots|pageOf|write||for|startPagination|innerHTML|pageCurrentBlogger|type|feed|published|getElementsByTagName|setAttribute|start|index|appendChild|text|javascript|createElement|location|head|getElementById|getElementsByName|pageArea|of|active|29|entry|encodeURIComponent|23|blog|totalResults|html|pager|openSearch|20'.split('|'),0,{}))
+//]]>
+</script>
+<!-- Slider Mobile Menu -->
+<div id='hamburger-container'>
+<div class='hamburger-wrap'>
+<div class='social-mobile'></div>
+<span class='hide-hamburgerMoile'></span>
+</div>
+<div class='hamburger-container-flex'>
+<div class='hamburgerMoile' id='hamburgerMoile'></div>
+<div class='pages-mobile'></div>
+</div>
+</div>
+<div class='overlay'></div>
+<!-- Overlay and Back To Top -->
+<div class='backTop' title='Back to Top'></div>
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2465480620-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY7DjRsH2uq8DAxMm9WfTPTjUrd4iw:1648226085269';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d1912309184954094911','//expertsmania.blogspot.com/','1912309184954094911');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '1912309184954094911', 'title': 'ExpertsMania', 'url': 'https://expertsmania.blogspot.com/', 'canonicalUrl': 'https://expertsmania.blogspot.com/', 'homepageUrl': 'https://expertsmania.blogspot.com/', 'searchUrl': 'https://expertsmania.blogspot.com/search', 'canonicalHomepageUrl': 'https://expertsmania.blogspot.com/', 'blogspotFaviconUrl': 'https://expertsmania.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22ExpertsMania - Atom\x22 href\x3d\x22https://expertsmania.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22ExpertsMania - RSS\x22 href\x3d\x22https://expertsmania.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22ExpertsMania - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/1912309184954094911/posts/default\x22 /\x3e\n', 'meTag': '\x3clink rel\x3d\x22me\x22 href\x3d\x22https://www.blogger.com/profile/02812955151233119980\x22 /\x3e\n', 'adsenseClientId': 'ca-pub-2478022146061585', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': true, 'adsenseAutoAds': true, 'boqCommentIframeForm': false, 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/5d89868a5fdb90e0', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'index', 'pageName': '', 'pageTitle': 'ExpertsMania', 'metaDescription': 'We give latest gaming updates and gaming latest news.'}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': true, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'ExpertsMania', 'description': 'We give latest gaming updates and gaming latest news.', 'url': 'https://expertsmania.blogspot.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}, {'name': 'widgets', 'data': [{'title': 'Default Variables', 'type': 'LinkList', 'sectionId': 'admin', 'id': 'LinkList23'}, {'title': 'Top menu', 'type': 'LinkList', 'sectionId': 'menu-top', 'id': 'LinkList3'}, {'title': 'top social', 'type': 'LinkList', 'sectionId': 'social-sec', 'id': 'LinkList4'}, {'title': 'ExpertsMania (Header)', 'type': 'Header', 'sectionId': 'hamburgerLogo', 'id': 'Header1'}, {'title': 'Main Menu', 'type': 'LinkList', 'sectionId': 'hamburgerMenu', 'id': 'LinkList155'}, {'title': 'ExpertsMania-Pushing Limits.', 'type': 'Image', 'sectionId': 'header-nos', 'id': 'Image151'}, {'title': 'JOIN WITH US', 'type': 'Image', 'sectionId': 'blighter-seo', 'id': 'Image101'}, {'title': 'GROW KNOWLADGE WITH US', 'type': 'Image', 'sectionId': 'blighter-seo', 'id': 'Image102'}, {'title': 'Download ExpertsMania Application For Mobile', 'type': 'Image', 'sectionId': 'blighter-seo', 'id': 'Image103'}, {'title': 'Backlinks on Analysis', 'type': 'Image', 'sectionId': 'blighter-seo', 'id': 'Image104'}, {'title': 'Our Most Powerfull Concept', 'type': 'Text', 'sectionId': 'head-title', 'id': 'Text2'}, {'title': 'Trending Post', 'type': 'HTML', 'sectionId': 'top-lighter-main-widget', 'id': 'HTML11'}, {'title': 'Shop Now', 'type': 'HTML', 'sectionId': 'main-ads2', 'id': 'HTML4'}, {'title': 'Recent Blog Posts', 'type': 'Text', 'sectionId': 'head-title1', 'id': 'Text3'}, {'title': 'Blog Posts', 'type': 'Blog', 'sectionId': 'main', 'id': 'Blog1', 'posts': [{'id': '251931578071509301', 'title': 'Which programming language should I learn to get job as fresher. ', 'featuredImage': 'https://blogger.googleusercontent.com/img/a/AVvXsEgtJPM_mB_2WSffiHeCdSzu07ra5geml2MWCSSk4gjV-DN5kjUq4HguiupIRWvLY67FJou-ZbLkZotqibL_3SWQ4HVB9wmskCjK_7qY_A8VobrnpKhULjqJUM0LigmLpxaSPQp36AI3A9NzTDtZajQeaaZ2mMhaxZNizoBYQNc6Z5aTGYYmD_zMjDjyCw\x3ds16000', 'showInlineAds': false}], 'headerByline': {'regionName': 'header1', 'items': [{'name': 'author', 'label': 'by'}, {'name': 'timestamp', 'label': ''}]}, 'footerBylines': [{'regionName': 'footer1', 'items': [{'name': 'share', 'label': ''}, {'name': 'comments', 'label': 'Comments'}, {'name': 'labels', 'label': 'Tags'}, {'name': 'icons', 'label': ''}]}], 'allBylineItems': [{'name': 'author', 'label': 'by'}, {'name': 'timestamp', 'label': ''}, {'name': 'share', 'label': ''}, {'name': 'comments', 'label': 'Comments'}, {'name': 'labels', 'label': 'Tags'}, {'name': 'icons', 'label': ''}]}, {'title': 'Top Post Ad', 'type': 'HTML', 'sectionId': 'upper-ad', 'id': 'HTML8'}, {'title': 'Below Post Ad', 'type': 'HTML', 'sectionId': 'lower-ad', 'id': 'HTML9'}, {'title': '', 'type': 'HTML', 'sectionId': 'main-ads', 'id': 'HTML10'}, {'title': 'Social Plugin', 'type': 'LinkList', 'sectionId': 'social-tab', 'id': 'LinkList77'}, {'title': 'About Me', 'type': 'Profile', 'sectionId': 'head-title2', 'id': 'Profile1'}, {'title': 'Start Your Business Now', 'type': 'Image', 'sectionId': 'bottom-nos', 'id': 'Image152'}, {'title': '', 'type': 'HTML', 'sectionId': 'sidebar1', 'id': 'HTML6'}, {'title': 'Ads', 'type': 'HTML', 'sectionId': 'sidebar1', 'id': 'HTML1'}, {'type': 'Attribution', 'sectionId': 'sidebar1', 'id': 'Attribution1'}, {'title': '', 'type': 'ReportAbuse', 'sectionId': 'sidebar1', 'id': 'ReportAbuse1'}, {'title': '', 'type': 'FeaturedPost', 'sectionId': 'sidebar1', 'id': 'FeaturedPost1', 'postId': '251931578071509301'}, {'title': 'Search This Blog', 'type': 'BlogSearch', 'sectionId': 'sidebar1', 'id': 'BlogSearch1'}, {'title': 'Labels', 'type': 'Label', 'sectionId': 'sidebar1', 'id': 'Label1'}, {'title': 'About Us', 'type': 'Image', 'sectionId': 'sidebar1', 'id': 'Image2'}, {'title': '', 'type': 'PageList', 'sectionId': 'sidebar1', 'id': 'PageList1'}, {'title': 'Social Plugin', 'type': 'LinkList', 'sectionId': 'social-widget', 'id': 'LinkList76'}, {'title': '', 'type': 'HTML', 'sectionId': 'sidebar2', 'id': 'HTML14'}, {'title': '', 'type': 'HTML', 'sectionId': 'sidebar2', 'id': 'HTML12'}, {'title': 'Chocolate Cake', 'type': 'PopularPosts', 'sectionId': 'sidebar2', 'id': 'PopularPosts1', 'posts': [{'title': 'How To Get Free Netflix Account ', 'id': 6127586069842703027}, {'title': ' Best Gaming Headphones Under 5000', 'id': 7773050930204500731}, {'title': ' Best Gaming Laptops Under 60000 ', 'id': 5237524886297995490}, {'title': '5 Best WhatsApp Mod APK Apps Download (Updated 2021)', 'id': 8067147402102522295}]}, {'title': 'Labels', 'type': 'Label', 'sectionId': 'sidebar2', 'id': 'Label2'}, {'title': 'News', 'type': 'HTML', 'sectionId': 'sidebar2', 'id': 'HTML5'}, {'title': 'Categories', 'type': 'Label', 'sectionId': 'sidebar2', 'id': 'Label3'}, {'title': '', 'type': 'HTML', 'sectionId': 'footer-sec2', 'id': 'HTML16'}, {'title': 'Pro Tools here', 'type': 'LinkList', 'sectionId': 'footer-sec2', 'id': 'LinkList1'}, {'title': '', 'type': 'HTML', 'sectionId': 'footer-widget', 'id': 'HTML13'}, {'title': 'World Deals For Blog', 'type': 'LinkList', 'sectionId': 'footer-widget', 'id': 'LinkList2'}, {'title': 'Tech Pop', 'type': 'PopularPosts', 'sectionId': 'footer-sec3', 'id': 'PopularPosts2', 'posts': [{'title': 'How To Get Free Netflix Account ', 'id': 6127586069842703027}, {'title': ' Best Gaming Headphones Under 5000', 'id': 7773050930204500731}, {'title': ' Best Gaming Laptops Under 60000 ', 'id': 5237524886297995490}]}, {'title': 'About Us', 'type': 'Image', 'sectionId': 'footer-nos', 'id': 'Image150'}, {'title': 'Follow Us', 'type': 'LinkList', 'sectionId': 'footer-nos', 'id': 'LinkList7'}, {'title': 'Link List', 'type': 'LinkList', 'sectionId': 'footer-haburger-menu', 'id': 'LinkList8'}, {'title': 'Footer Copyright', 'type': 'HTML', 'sectionId': 'footer-copyright', 'id': 'HTML33'}, {'title': 'Contact form', 'type': 'ContactForm', 'sectionId': 'hidden-widgets', 'id': 'ContactForm1'}]}]);
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList23', 'admin', document.getElementById('LinkList23'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList3', 'menu-top', document.getElementById('LinkList3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList4', 'social-sec', document.getElementById('LinkList4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'hamburgerLogo', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList155', 'hamburgerMenu', document.getElementById('LinkList155'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image151', 'header-nos', document.getElementById('Image151'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image101', 'blighter-seo', document.getElementById('Image101'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image102', 'blighter-seo', document.getElementById('Image102'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image103', 'blighter-seo', document.getElementById('Image103'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image104', 'blighter-seo', document.getElementById('Image104'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text2', 'head-title', document.getElementById('Text2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML11', 'top-lighter-main-widget', document.getElementById('HTML11'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'main-ads2', document.getElementById('HTML4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text3', 'head-title1', document.getElementById('Text3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/2325467295-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/3523451998-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML8', 'upper-ad', document.getElementById('HTML8'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML9', 'lower-ad', document.getElementById('HTML9'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML10', 'main-ads', document.getElementById('HTML10'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList77', 'social-tab', document.getElementById('LinkList77'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'head-title2', document.getElementById('Profile1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image152', 'bottom-nos', document.getElementById('Image152'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML6', 'sidebar1', document.getElementById('HTML6'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar1', document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'sidebar1', document.getElementById('Attribution1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ReportAbuseView', new _WidgetInfo('ReportAbuse1', 'sidebar1', document.getElementById('ReportAbuse1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FeaturedPostView', new _WidgetInfo('FeaturedPost1', 'sidebar1', document.getElementById('FeaturedPost1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogSearchView', new _WidgetInfo('BlogSearch1', 'sidebar1', document.getElementById('BlogSearch1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'sidebar1', document.getElementById('Label1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image2', 'sidebar1', document.getElementById('Image2'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'sidebar1', document.getElementById('PageList1'), {'title': '', 'links': [{'isCurrentPage': true, 'href': 'https://expertsmania.blogspot.com/', 'title': 'Home'}], 'mobile': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList76', 'social-widget', document.getElementById('LinkList76'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML14', 'sidebar2', document.getElementById('HTML14'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML12', 'sidebar2', document.getElementById('HTML12'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebar2', document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label2', 'sidebar2', document.getElementById('Label2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML5', 'sidebar2', document.getElementById('HTML5'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label3', 'sidebar2', document.getElementById('Label3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML16', 'footer-sec2', document.getElementById('HTML16'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList1', 'footer-sec2', document.getElementById('LinkList1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML13', 'footer-widget', document.getElementById('HTML13'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList2', 'footer-widget', document.getElementById('LinkList2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts2', 'footer-sec3', document.getElementById('PopularPosts2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image150', 'footer-nos', document.getElementById('Image150'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList7', 'footer-nos', document.getElementById('LinkList7'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList8', 'footer-haburger-menu', document.getElementById('LinkList8'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML33', 'footer-copyright', document.getElementById('HTML33'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ContactFormView', new _WidgetInfo('ContactForm1', 'hidden-widgets', document.getElementById('ContactForm1'), {'contactFormMessageSendingMsg': 'Sending...', 'contactFormMessageSentMsg': 'Your message has been sent.', 'contactFormMessageNotSentMsg': 'Message could not be sent. Please try again later.', 'contactFormInvalidEmailMsg': 'A valid email address is required.', 'contactFormEmptyMessageMsg': 'Message field cannot be empty.', 'title': 'Contact form', 'blogId': '1912309184954094911', 'contactFormNameMsg': 'Name', 'contactFormEmailMsg': 'Email', 'contactFormMessageMsg': 'Message', 'contactFormSendMsg': 'Send', 'submitUrl': 'https://www.blogger.com/contact-form.do'}, 'displayModeFull'));
+</script>
+</body>
+</html>
